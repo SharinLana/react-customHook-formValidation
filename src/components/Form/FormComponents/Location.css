@@ -1,0 +1,42 @@
+.cityInput,
+.zipInput,
+.select {
+  margin: 5px 0px 15px 0px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  height: 30px;
+  padding: 4px 0px 4px 10px;
+  width: 90%;
+  font-size: 16px;
+}
+
+.select {
+  width: 93%;
+  height: 38px;
+}
+
+.zipInput {
+  margin: 5px 0px;
+}
+
+label {
+  font-size: 16px;
+}
+
+.error {
+  background-color: rgba(255, 166, 0, 0.666);
+}
+
+.warning {
+  color: rgb(238, 221, 221);
+  margin: 0 0 10px 0;
+}
+
+@media all and (max-width: 500px) {
+  .cityInput,
+  .zipInput,
+  .select {
+    font-size: 14px;
+  }
+}
