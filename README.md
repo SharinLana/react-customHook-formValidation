@@ -10,7 +10,13 @@ The main goals for me as a web developer were to improve my skills in working wi
 - ReactDOM.createPortal() to display a modal informing about the status of the form submittion ("Success!" or "Error!");
 - the React props (data transfer from parents to children and vice versa);
 - JavaScript logic and methods (trim(), match(), isNaN(), toUpperCase(), regex, ternary operator, etc);
-- CSS modules;
+- CSS modules.
+
+## To view the app in the browser, copy and paste the following line to your browser URL address bar:
+
+```
+https://sharinlana.github.io/react-customHook-formValidation/
+```
 
 ## To start the app on your machine:
 
