@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-customHook-formValidation/static/css/main.22b41c43.css",
+    "main.js": "/react-customHook-formValidation/static/js/main.655354bd.js",
+    "static/js/787.f45af2a7.chunk.js": "/react-customHook-formValidation/static/js/787.f45af2a7.chunk.js",
+    "index.html": "/react-customHook-formValidation/index.html",
+    "main.22b41c43.css.map": "/react-customHook-formValidation/static/css/main.22b41c43.css.map",
+    "main.655354bd.js.map": "/react-customHook-formValidation/static/js/main.655354bd.js.map",
+    "787.f45af2a7.chunk.js.map": "/react-customHook-formValidation/static/js/787.f45af2a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22b41c43.css",
+    "static/js/main.655354bd.js"
+  ]
+}
